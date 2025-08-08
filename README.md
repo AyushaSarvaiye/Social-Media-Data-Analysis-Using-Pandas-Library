@@ -2,11 +2,11 @@ Social Media Data Analysis with Pandas
 
 ### Analysis Summary 
 
-1. **Top & Last 5 Records of the Dataset**
-   View the first and last five rows to quickly inspect data.
-
-2. **Import Data from CSV File**
+1. **Import Data from CSV File**
    Load dataset from a CSV file into a pandas DataFrame.
+
+2. **Top & Last 5 Records of the Dataset**
+    View the first and last five rows to quickly inspect data.
 
 3. **Extract 2 or More Columns**
    Select multiple relevant columns for focused analysis.
